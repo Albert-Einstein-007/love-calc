@@ -1,0 +1,90 @@
+
+
+#Uname:focus,#Lname:focus{
+outline:none;}
+
+#head{
+				font-family: 'Lobster', cursive;
+				color:#ff0073;
+				text-shadow:3px 3px black;
+}
+#head2{
+				font-family: 'Righteous', cursive;
+				color:white;
+				text-shadow:0 0 6px black;
+}
+#nm{
+font-family: 'times of roman';
+Font-size: 50px;
+font-weight: bold;
+}
+body{
+text-align: center;
+background-color: #ff15fc;
+}
+button{
+
+Font-size: 40px;
+
+font-family: 'Suez One', serif;
+text-align: right;
+font-weight:bold;
+background-color:#ff1f00;
+color:#ffffff;
+border: 2px solid black;
+border-radius: 5px;
+}
+#btn2{font-size: 26px;}
+#btn1{
+Font-size: 20px;
+margin-top:9px;
+padding:5px;
+padding-left:28px;
+padding-right:28px;
+}
+
+input{
+text-align: centre;
+border: 2px solid lime;
+border-radius: 6pt;
+font-size:15px;
+padding:4px;
+width:150px;
+margin:4px;
+font-family: 'Kalam', cursive;
+}
+#done{
+background-color: lime;
+border: 3px solid deeppink;
+border-radius: 20px;
+}
+#sh{
+color: red;
+font-family: 'Josefin Sans', sans-serif;
+font-decoration:bold;
+text-shadow: 2px 2px 5px white;
+
+}
+
+#names{
+color:#3b00ff;
+background:#00ffab;
+text-shadow: 1px 2px #ff0a00;
+font-family: 'Fredoka One', cursive;
+border:3px solid black;
+border-radius:10px 250px;
+box-shadow:4px solid white;
+font-size:40px;
+animation: heartbeat 2 linear infinite;
+
+}
+
+#good{
+
+font-size:45px;
+}
+h2{
+				color:white;
+				text-shadow:2px 2px  #ff0073;
+				font-family: 'Kaushan Script', cursive;
+}
