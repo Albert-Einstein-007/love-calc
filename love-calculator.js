@@ -67,7 +67,7 @@ function getRandomNumber(){
 
   var text = Math.floor(Math.random() * 100); 
  
- location.replace("whatsapp://send?text=*Do You Want To Calculate The Depth Of Love   Between You And Your Lover?     Click The Link Below And Check It Out......    http://bit.ly/love-calculater-for-you*")
+location.replace("whatsapp://send?text=*Do You Want To Know The Depth Of Love ❤️  Between You And Your Lover💖💖......?💞*%0a %0a*Click The Link Below And Check It Out👩‍❤️‍💋‍👨👩‍❤️‍👨...... *%0a %0a %0a*http://bit.ly/love-calculater-for-you*")
  
   setTimeout(function(){ 
   document.getElementById("nm").innerHTML = text+"%"; document.getElementById("nm").style.backgroundColor="#aafff4";
