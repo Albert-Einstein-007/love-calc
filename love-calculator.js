@@ -96,7 +96,7 @@ document.getElementById("nm").style.border="4px solid #ff0088";
 
   
 
-  if(text<"50") {
+  if(text >"10" && text <"50") {
 
 				document.getElementById("good").innerHTML = "BAD";
 
